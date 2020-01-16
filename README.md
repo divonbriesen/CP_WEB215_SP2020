@@ -1,5 +1,6 @@
 # CP_WEB215-SP2020
 For WEB 215 class
+## Once you get invited, come here and write after your name that you were here, and what time and day. 
 Created by D.I. von Briesen - D.I. von Briesen was here 11:55am 1/16/2020
 Invited:
 - Safron Haile - SafronH
