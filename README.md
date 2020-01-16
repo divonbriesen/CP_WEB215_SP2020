@@ -12,6 +12,6 @@ Invited:
 - Alexander Schmid - LTSchmiddy
 - Terrell Scott - missing
 - Marc Seelenger - missing
-- Emmanuel Sosa - sosaeman
+- Emmanuel Sosa - Emmanuel Sosa was here 11:21 1/16/2020
 - Kewal Thapa - missing
 - Elena Zelenina - missing
