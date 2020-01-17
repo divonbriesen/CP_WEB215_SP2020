@@ -7,7 +7,7 @@ Invited:
 - Kendall Cheek - KendallCheek was here 10:23pm 1/16/20
 - Sabrina Nur - missing
 - Mariia Pavlenko - missing
-- Robert Propheter - robert-m-proph
+- Robert Propheter - was here at 9:46am 1/17/2020
 - Thinh Pham - missing
 - Alexander Schmid - LTSchmiddy
 - Terrell Scott - missing
