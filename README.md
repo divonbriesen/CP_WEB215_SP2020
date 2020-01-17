@@ -4,7 +4,7 @@ For WEB 215 class
 Created by D.I. von Briesen - D.I. von Briesen was here 11:55am 1/16/2020
 Invited:
 - Safron Haile - SafronH
-- Kendall Cheek - KendallCheek
+- Kendall Cheek - KendallCheek was here 10:23pm 1/16/20
 - Sabrina Nur - missing
 - Mariia Pavlenko - missing
 - Robert Propheter - robert-m-proph
