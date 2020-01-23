@@ -14,5 +14,5 @@ Invited:
 - Marc Seelenger - missing
 - Emmanuel Sosa - sosaeman
 - Kewal Thapa - missing
-- [D.I. von Briesen](https://github.com/divonbriesen/) | [Class Repo](https://github.com/divonbriesen/CP_WEB215_SP2020/)- D.I. was here 11:55am 1/16/2020.
+- [D.I. von Briesen](https://github.com/divonbriesen/) | [Class Repo](https://github.com/divonbriesen/CP_WEB215_SP2020/) - D.I. was here 11:55am 1/16/2020.
 - Elena Zelenina - missing
