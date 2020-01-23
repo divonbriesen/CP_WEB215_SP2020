@@ -1,10 +1,10 @@
 # CP_WEB215-SP2020
 For WEB 215 class
-## Once you get invited, come here and write after your name that you were here, and what time and day. 
-Created by D.I. von Briesen - D.I. von Briesen was here 11:55am 1/16/2020
+## If you have collaborator access, write that you were here and provide a link to your repo for **THIS CLASS**. 
+
 Invited:
-- Safron Haile - SafronH
 - Kendall Cheek - KendallCheek was here 10:23pm 1/16/20
+- Safron Haile - SafronH
 - Sabrina Nur - missing
 - Mariia Pavlenko - missing
 - Robert Propheter - was here at 9:46am 1/17/2020
@@ -14,4 +14,5 @@ Invited:
 - Marc Seelenger - missing
 - Emmanuel Sosa - sosaeman
 - Kewal Thapa - missing
+- D.I. von Briesen - D.I. von Briesen was here 11:55am 1/16/2020 - repo: https://github.com/divonbriesen/CP_WEB215_SP2020/
 - Elena Zelenina - missing
