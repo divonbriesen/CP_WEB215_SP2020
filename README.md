@@ -1,6 +1,6 @@
 # CP_WEB215-SP2020
 For WEB 215 class
-## the initial work resides in the docs folder, which is web browsable via github pages at http://github.com/divonbriesen/CP_WEB215_SP2020/
+## the initial work resides in the docs folder, which is web browsable via github pages at http://divonbriesen.github.io/CP_WEB215_SP2020/
 
 ## Link your name to your profile, link to your repo for this class, and mark yourself as here with time/date. 
 
