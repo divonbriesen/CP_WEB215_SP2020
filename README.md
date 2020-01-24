@@ -16,11 +16,9 @@ For WEB 215 class
 - [Sabrina Nurx](https://github.com/snur0000/) - [Course Repox](http://github.com/youruserid/youreponame) - missing
 - [Mariia Pavlenko](https://github.com/MariiaPa/) - [Course Repox](http://github.com/youruserid/MariiaPa??) - missing
 - [Thinh Phamx](https://github.com/thinhpham266/) - [Course Repox](http://github.com/youruserid/youreponame/) - missing
-- [Alexander Schmidx](https://github.com/LtSchmiddy/) - [Course Repox](http://github.com/youruserid/youreponame/) - missingLTSchmiddy
+- [Alexander Schmidx](https://github.com/LtSchmiddy/) - [Course Repox](http://github.com/LTSchmiddy/youreponame/) - missing
 - [Marc Seelengerx](https://github.com/mseelingerjr/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Emmanuel Sosax](https://github.com/sosaeman/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Kewal Thapax](https://github.com/Kewalthapa/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Elena Zeleninax](https://github.com/ElenaZelenina/) - [Course Repox](http://github.com/youruserid/youreponame/) - missing
-
-## Missing- No github id in blackboard/introduction/participants
-- [Terrell Scottx](https://github.com/yourid/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing - don't have id to invite
+- [Terrell Scott](https://github.com/Tdscott1978/)  - [Course Repox](http://github.com/Tdscott1978/youreponame/) - missingto invite
