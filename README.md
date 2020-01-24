@@ -9,6 +9,7 @@ For WEB 215 class
 - [Robert Propheterx](https://github.com/robert-m-proph/) | [Class Repox](https://github.com/robert-m-proph/WEB250-??/)- was here at 9:46am 1/17/2020
 - [Elena Zelenina](https://github.com/ElenaZelenina/) - [Course Repo](https://github.com/ElenaZelenina/web215-Zelenina) - ElenaZelenina was here 10:00am 1/24/2020.
 - [Safron Haile](https://github.com/SafronH/) | [class Repo](https://github.com/SafronH/Web215) -Safron Haile was here at 12:01 p.m 1/24/2020.
+- [Marc Seelinger](https://github.com/mseelingerjr/)  - [Course Repox](https://github.com/mseelingerjr/web210-seelinger) - here at 4:21pm 1/24/2020
 
 ## Invited and waiting on:
 
@@ -17,7 +18,6 @@ For WEB 215 class
 - [Mariia Pavlenko](https://github.com/MariiaPa/) - [Course Repox](http://github.com/youruserid/MariiaPa??) - missing
 - [Thinh Phamx](https://github.com/thinhpham266/) - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Alexander Schmidx](https://github.com/LtSchmiddy/) - [Course Repox](http://github.com/LTSchmiddy/youreponame/) - missing
-- [Marc Seelengerx](https://github.com/mseelingerjr/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Emmanuel Sosax](https://github.com/sosaeman/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Kewal Thapax](https://github.com/Kewalthapa/)  - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Elena Zeleninax](https://github.com/ElenaZelenina/) - [Course Repox](http://github.com/youruserid/youreponame/) - missing
