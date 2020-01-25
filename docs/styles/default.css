@@ -10,7 +10,7 @@ body
 header, footer
 {
 	text-align: center;
-	color: slateblue;
+	color: darkslategrey;
 	font-weight: bold;
 }
 
@@ -24,7 +24,7 @@ h1, h2, h3
 a
 {
 	text-decoration: none;
-	color: blueviolet;
+	color: slateblue;
 	font-weight: bold;
 }
 
@@ -52,7 +52,7 @@ figcaption
 
 nav
 {
-	color: violet;
+	color: blueviolet;
 	text-align: center;
 }
 
