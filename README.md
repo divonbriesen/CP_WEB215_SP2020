@@ -15,7 +15,7 @@ For WEB 215 class
 
 - [Safron Haile](https://github.com/SafronH/) - [Course Repox](https://github.com/SafronH/Web215??) - missing
 - [Sabrina Nurx](https://github.com/snur0000/) - [Course Repox](http://github.com/youruserid/youreponame) - missing
-- [Mariia Pavlenko](https://github.com/MariiaPa/) - [Course Repox](http://github.com/youruserid/MariiaPa??) - missing
+- [Mariia Pavlenko](https://github.com/MariiaPa/) - [Course Repox](http://github.com/MariiaPa/web215-pavlenko) - Mariia Pavlenko was here 10:54 am on 1/27/2020.
 - [Thinh Phamx](https://github.com/thinhpham266/) - [Course Repox](http://github.com/youruserid/youreponame/) - missing
 - [Alexander Schmidx](https://github.com/LtSchmiddy/) - [Course Repox](http://github.com/LTSchmiddy/youreponame/) - missing
 - [Emmanuel Sosax](https://github.com/sosaeman/)  - [Course Repox](http://github.com/sosaeman/web215-emmanuelsosa) - Emmanuel was here 9:20 am 1/25/2020
