@@ -50,6 +50,11 @@ figcaption
 	color: darkslategray;
 }
 
+.coursename
+{
+	font-style: italic;
+}
+
 nav
 {
 	color: blueviolet;
