@@ -10,7 +10,7 @@ body
 header, footer
 {
 	text-align: center;
-	color: slateblue;
+	color: darkslategrey;
 	font-weight: bold;
 }
 
@@ -24,7 +24,7 @@ h1, h2, h3
 a
 {
 	text-decoration: none;
-	color:violet;
+	color: slateblue;
 	font-weight: bold;
 }
 
@@ -44,10 +44,15 @@ figcaption
 	font-weight: bold;
 }
 
-.attribute
+.category
 {
 	font-weight: bold;
 	color: darkslategray;
+}
+
+.coursename
+{
+	font-style: italic;
 }
 
 nav
