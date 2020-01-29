@@ -44,6 +44,13 @@ figcaption
 	font-weight: bold;
 }
 
+.divider
+{
+	text-align: center;
+	font-weight: bold;
+	background: red;
+}
+
 .category
 {
 	font-weight: bold;
