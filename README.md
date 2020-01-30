@@ -17,7 +17,7 @@ For WEB 215 class
 
 ## Invited and waiting on:
 
-- [Safron Haile](https://github.com/SafronH/) - [Course Repox](https://github.com/SafronH/Web215??) - accepted invite, but hasn't marked himself as here
+- [Safron Haile](https://github.com/SafronH/) - [Course Repox](https://github.com/SafronH/Web215??) - Safron Haile was here at 12:01 p.m 1/24/2020 - updated on 1/30/2020
 - [Sabrina Nurx](https://github.com/snur0000/) - [Course Repox](http://github.com/youruserid/youreponame) - invited, hasn't accepted
 - [Alexander Schmidx](https://github.com/LtSchmiddy/) - [Course Repox](http://github.com/LTSchmiddy/youreponame/) - invited hasn't accepted
 - [Kewal Thapax](https://github.com/Kewalthapa/)  - [Course Repox](http://github.com/youruserid/youreponame/) - invited hasn't accepted
