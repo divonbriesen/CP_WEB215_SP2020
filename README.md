@@ -14,6 +14,8 @@ For WEB 215 class
 - [Marc Seelinger](https://github.com/mseelingerjr/)  - [Course Repox](https://github.com/mseelingerjr/web210-seelinger) - here at 4:21pm 1/24/2020
 - [Emmanuel Sosax](https://github.com/sosaeman/)  - [Course Repox](http://github.com/sosaeman/web215-emmanuelsosa) - Emmanuel was here 9:20 am 1/25/2020
 - [Elena Zelenina](https://github.com/ElenaZelenina/) - [Course Repo](https://github.com/ElenaZelenina/web215-Zelenina) - ElenaZelenina was here 10:00am 1/24/2020.
+ [Terrell Scott](https://github.com/Tdscott1978/)  - [Course Repox](http://github.com/Tdscott1978/web215-scott) - 
+
 
 ## Invited and waiting on:
 
