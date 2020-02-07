@@ -7,6 +7,7 @@ For WEB 215 class
 - [D.I. von Briesen](https://github.com/divonbriesen/) | [Class Repo](https://github.com/divonbriesen/CP_WEB215_SP2020/) - D.I. was here 11:55am 1/16/2020.
 - [LeeAnna Ewing](https://github.com/lewing00/) | [Class Repo](https://github.com/xxxx/WEB250-Cheek/) - someone was here 10:23pm 1/16/20
 - [Kendall Cheek](https://github.com/KendallCheek/) | [Class Repox](https://github.com/KendallCheek/WEB250-Cheek/) - KendallCheek was here 10:23pm 1/16/20
+- [Sabrina Nurx](https://github.com/snur0000/) - [Course Repox](http://github.com/snur0000/web215) - here at 10:13am 2/07/10
 - [Robert Propheter](https://github.com/robert-m-proph/) | [Class Repo](https://github.com/robert-m-proph/web215-propheter)- was at 9:46am 1/17/2020 & fixed links at 8:22pm 1/27/2020
 - [Safron Haile](https://github.com/SafronH/) | [Class Repo](https://github.com/SafronH/Web215) -Safron Haile was here at 12:01 p.m 1/24/2020 - updated on 1/30/2020
 - [Mariia Pavlenko](https://github.com/MariiaPa/) | [Course Repox](http://github.com/MariiaPa/web215-pavlenko) - Mariia Pavlenko was here 10:54 am on 1/27/2020.
@@ -16,8 +17,6 @@ For WEB 215 class
 - [Elena Zelenina](https://github.com/ElenaZelenina/) | [Course Repo](https://github.com/ElenaZelenina/web215-Zelenina) - ElenaZelenina was here 10:00am 1/24/2020.
 
 ## Invited and waiting on:
-
-- [Sabrina Nurx](https://github.com/snur0000/) - [Course Repox](http://github.com/youruserid/youreponame) - invited, hasn't accepted
 - [Alexander Schmidx](https://github.com/LtSchmiddy/) - [Course Repox](http://github.com/LTSchmiddy/youreponame/) - invited hasn't accepted
 - [Kewal Thapax](https://github.com/Kewalthapa/)  - [Course Repox](http://github.com/youruserid/youreponame/) - invited hasn't accepted
 
