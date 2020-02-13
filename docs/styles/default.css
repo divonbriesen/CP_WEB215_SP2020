@@ -43,6 +43,20 @@ figcaption
 	font-style: italic;
 	font-weight: bold;
 }
+nav
+{
+	color: blueviolet;
+	text-align: center;
+}
+
+/* Classes & IDs */
+
+.divider
+{
+	text-align: center;
+	font-weight: bold;
+	background: red;
+}
 
 .category
 {
@@ -54,10 +68,8 @@ figcaption
 {
 	font-style: italic;
 }
-
-nav
+.dividerBlack
 {
-	color: blueviolet;
-	text-align: center;
+	color: #000000;
 }
 
